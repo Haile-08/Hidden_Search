@@ -2,7 +2,7 @@
 
 >Website [link ](https://haile-08.github.io/Hidden_Search/)
 
-#### Day1 of taking my #100DaysOfCode challenge 
+#### Day4 of taking my #100DaysOfCode challenge 
 
 ````bash
      made using 
